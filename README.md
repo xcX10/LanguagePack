@@ -1,0 +1,2 @@
+# LanguagePack
+Chinese Simplified
